@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title/>
+	</head>
+	<body>
+		<outline htmlUrl="" xmlUrl="http://stackvoid.com/feed/" version="RSS" type="rss" title="StackVoid" text="StackVoid"/>
+		<outline htmlUrl="http://www.zhihu.com" xmlUrl="http://www.zhihu.com/rss" version="RSS" type="rss" title="知乎每日精选" text="知乎每日精选"/>
+		<outline htmlUrl="http://bxbxbai.gitcafe.io/" xmlUrl="https://bxbxbai.github.io/atom.xml" version="RSS" type="rss" title="Android Notes" text="Android Notes"/>
+		<outline htmlUrl="http://blog.csdn.net/sinyu890807" xmlUrl="http://blog.csdn.net/guolin_blog/rss/list" version="RSS" type="rss" title="郭霖的专栏" text="郭霖的专栏"/>
+		<outline htmlUrl="http://blog.csdn.net/luoshengyang" xmlUrl="http://blog.csdn.net/luoshengyang/rss/list" version="RSS" type="rss" title="老罗的Android之旅" text="老罗的Android之旅"/>
+		<outline htmlUrl="http://blog.csdn.net/java2000_net" xmlUrl="http://blog.csdn.net/java2000_net/rss/list" version="RSS" type="rss" title="老紫竹的专栏" text="老紫竹的专栏"/>
+		<outline htmlUrl="http://blog.mimvp.com" xmlUrl="http://blog.mimvp.com/feed/" version="RSS" type="rss" title="米扑博客" text="米扑博客"/>
+		<outline htmlUrl="http://www.williamlong.info/" xmlUrl="http://feed.williamlong.info/" version="RSS" type="rss" title="月光博客" text="月光博客"/>
+		<outline htmlUrl="http://www.vip1993.com/" xmlUrl="http://www.vip1993.com/rss" version="RSS" type="rss" title="程序员之路" text="程序员之路"/>
+		<outline htmlUrl="http://feed.cnblogs.com/blog/u/107071/rss" xmlUrl="http://feed.cnblogs.com/blog/u/107071/rss" version="RSS" type="rss" title="博客园_CreateLight" text="博客园_CreateLight"/>
+		<outline htmlUrl="http://blog.csdn.net/jason0539" xmlUrl="http://blog.csdn.net/jason0539/rss/list" version="RSS" type="rss" title="一个本科小生的奋斗史" text="一个本科小生的奋斗史"/>
+		<outline htmlUrl="http://feed.cnblogs.com/blog/u/83240/rss" xmlUrl="http://feed.cnblogs.com/blog/u/83240/rss" version="RSS" type="rss" title="博客园_Ruthless" text="博客园_Ruthless"/>
+		<outline htmlUrl="http://blog.csdn.net/singwhatiwanna" xmlUrl="http://blog.csdn.net/singwhatiwanna/rss/list" version="RSS" type="rss" title="任玉刚" text="任玉刚"/>
+		<outline htmlUrl="http://blog.csdn.net/mmc_maodun" xmlUrl="http://blog.csdn.net/ns_code/rss/list" version="RSS" type="rss" title="兰亭风雨的专栏" text="兰亭风雨的专栏"/>
+		<outline htmlUrl="http://121.40.101.243/gitlab/dashboard" xmlUrl="http://121.40.101.243/gitlab/dashboard.atom?private_token=_ZiyErKeTyGMzetZwemm" version="RSS" type="rss" title="Activity" text="Activity"/>
+		<outline htmlUrl="http://androidweekly.cn/" xmlUrl="http://androidweekly.cn/rss/" version="RSS" type="rss" title="Android开发技术周报" text="Android开发技术周报"/>
+		<outline htmlUrl="http://blog.csdn.net/qjyong" xmlUrl="http://blog.csdn.net/qjyong/rss/list" version="RSS" type="rss" title="Java之道" text="Java之道"/>
+		<outline htmlUrl="https://github.com/aldrichChina" xmlUrl="https://github.com/aldrichChina.private.atom?token=ANpP06DsSykEPBHQ4lETzWj2pk2XARatks60BkyvwA==" version="RSS" type="rss" title="Private Feed for aldrichChina" text="Private Feed for aldrichChina"/>
+		<outline htmlUrl="http://www.ruanyifeng.com/blog/" xmlUrl="http://feeds.feedburner.com/ruanyifeng" version="RSS" type="rss" title="阮一峰的网络日志" text="阮一峰的网络日志"/>
+		<outline htmlUrl="http://www.ruanyifeng.com/blog/" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" version="RSS" type="rss" title="阮一峰的网络日志" text="阮一峰的网络日志"/>
+		<outline htmlUrl="http://blog.csdn.net/happydeer" xmlUrl="http://blog.csdn.net/happydeer/rss/list" version="RSS" type="rss" title="呦呦鹿鸣" text="呦呦鹿鸣"/>
+	</body>
+</opml>
